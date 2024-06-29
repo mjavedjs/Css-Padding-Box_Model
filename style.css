@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 3rem;
+    font-variant: small-caps;
+}
+.hero-sections{
+   display: grid;
+   place-items: center;
+   width: 60vw;
+   line-height: 1.5;
+   letter-spacing:2px;
+   height: 30vh;
+   text-align: center;  
+   border: 10px solid rgba(33, 12, 225, 0.569);
+   position: absolute;
+   left: 50px;
+   top:150px;
+   font-variant: small-caps;
+   padding: 100px 120px 180px 130px;
+     margin: 15px 10px 100px 200px;
+     background:linear-gradient(to right,#3a7bd5  ,#003b99);
+   color: white;
+}
